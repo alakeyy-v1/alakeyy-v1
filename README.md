@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @alakeyy-v1
-- 👀 I’m interested in ...Aviation, web development, other aspects of computer sciences, editing and 3d modelling
-- 🌱 I’m currently learning ...Aviation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in ...Aviation, Management studies, web development, other aspects of computer sciences, editing and 3d modelling
+- 🌱 I’m currently pursuing Management Studies 
+- 💞️ I’m looking to collaborate o
+
 
 <!---
 alakeyy-v1/alakeyy-v1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
